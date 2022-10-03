@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @rkalkan-a
-- 👀 I’m interested in game development and full stack development
+- 👋 Hi, I’m Ronan!
+- 👀 I’m interested in cybersecutiyu and front-end development
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on anything, I am new to the software enginnering world and would love any help!
 - 📫 How to reach me: rkalkan1231@icloud.com!
